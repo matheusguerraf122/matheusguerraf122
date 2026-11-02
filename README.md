@@ -33,4 +33,8 @@ Projeto acadêmico desenvolvido em **MySQL**, contendo criação de tabelas, rel
 
 ## 🌐 Projetos Web
 
-Em breve serão adicionados novos projetos desenvolvidos com HTML
+Em breve serão adicionados novos projetos desenvolvidos com HTML e CSS.
+
+## 📫 Contato
+
+- GitHub: [matheusguerraf122](https://github.com/matheusguerraf122)
