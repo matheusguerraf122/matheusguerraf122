@@ -33,7 +33,13 @@ Projeto acadêmico desenvolvido em **MySQL**, contendo criação de tabelas, rel
 
 ## 🌐 Projetos Web
 
-Em breve serão adicionados novos projetos desenvolvidos com HTML e CSS.
+### 🎵 Dia Internacional da Música
+
+Site acadêmico desenvolvido com **HTML e Bootstrap**, utilizando componentes como navbar responsiva, carrossel, cards, accordion, modal e toast.
+
+🌐 [Acessar site online](https://matheusguerraf122.github.io/site-dia-internacional-musica/)
+
+📂 [Ver repositório](https://github.com/matheusguerraf122/site-dia-internacional-musica)
 
 ## 📫 Contato
 
