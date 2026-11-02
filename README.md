@@ -39,3 +39,4 @@ Em breve serão adicionados novos projetos desenvolvidos com HTML e CSS.
 
 - LinkedIn: [Matheus Guerra](https://www.linkedin.com/in/matheus-g-5538a942b)
 - GitHub: [matheusguerraf122](https://github.com/matheusguerraf122)
+- E-mail: matheusguerrfernandes@gmail.com
